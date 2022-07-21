@@ -1,1 +1,0 @@
-{"mappings":"ACEA","sources":["index.774f7784.css","Desktop/YMessanger/src/main.scss"],"sourcesContent":["h1 {\n  color: tomato;\n}\n\n/*# sourceMappingURL=index.774f7784.css.map */\n","$color_h1: tomato;\n\nh1 {\n  color: $color_h1;\n}"],"names":[],"version":3,"file":"index.774f7784.css.map"}

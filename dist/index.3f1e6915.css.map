@@ -1,1 +1,0 @@
-{"mappings":"AAEA","sources":["Desktop/YMessanger/src/main.scss"],"sourcesContent":["$color_h1: tomato;\n\nh1 {\n  color: $color_h1;\n}"],"names":[],"version":3,"file":"index.3f1e6915.css.map","sourceRoot":"/__parcel_source_root/"}
