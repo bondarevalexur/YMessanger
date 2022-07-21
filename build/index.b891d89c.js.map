@@ -1,0 +1,1 @@
+{"mappings":"AACAA,QAAQC,IAAI","sources":["Desktop/YMessanger/src/main.js"],"sourcesContent":["import './main.scss';\nconsole.log('Hello main.js!')"],"names":["console","log"],"version":3,"file":"index.b891d89c.js.map"}
