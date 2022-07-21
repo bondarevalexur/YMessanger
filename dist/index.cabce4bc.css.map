@@ -1,0 +1,1 @@
+{"mappings":"AAEA","sources":["Desktop/YPract/messanger/src/main.scss"],"sourcesContent":["$color_h1: tomato;\n\nh1 {\n  color: $color_h1;\n}"],"names":[],"version":3,"file":"index.cabce4bc.css.map","sourceRoot":"/__parcel_source_root/"}
